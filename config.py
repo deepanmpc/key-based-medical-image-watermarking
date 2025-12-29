@@ -1,0 +1,3 @@
+PATCH_H = 4
+PATCH_W = 32
+IMAGE_SIZE = (512, 512)
